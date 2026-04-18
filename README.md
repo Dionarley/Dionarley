@@ -30,7 +30,7 @@ Desenvolvedor & Maker brasileiro | Minas Gerais, Brasil
 
 📊 GitHub Stats
 
-![Dionarley GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionarley)](https://github.com/anuraghazra/github-readme-stats)
+![Dionarley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionarley)]
 
 🌐 Websites
 - [dionarley.com.br](em desenvolvimento)
