@@ -29,10 +29,12 @@ Desenvolvedor & Maker brasileiro | Minas Gerais, Brasil
 - Instagram: @dionarley_
 
 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dionarley&show_icons=true&theme=radical)
 
-![Dionarley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionarley)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionarley&layout=compact&theme=radical)
 
 🌐 Websites
+
 - [dionarley.com.br](em desenvolvimento)
--https://dionarley.netlify.app/
+- https://dionarley.netlify.app/
 
