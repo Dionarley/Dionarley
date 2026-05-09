@@ -28,11 +28,6 @@ Desenvolvedor & Maker brasileiro | Minas Gerais, Brasil
 - Email: dionarley@gmail.com
 - Instagram: @dionarley_
 
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dionarley&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionarley&layout=compact&theme=radical)
 
 🌐 Websites
 
